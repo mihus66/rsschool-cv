@@ -1,5 +1,7 @@
 # Табальчук Михаил
 
+![Фото профиля](main/IMG-5143.png)
+
 ## Контактная информация
 - email: mtabalchuk@icloud.com
 - phone number: +375 25 511 55 23
